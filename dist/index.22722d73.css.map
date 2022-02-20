@@ -1,0 +1,1 @@
+{"mappings":"AAAA;EACI;;ACCJ;EACE,OAHM","sources":["src/components/button/button.scss","src/index.scss"],"sourcesContent":[".super-button{\r\n    color: aqua;\r\n}","$color: steelblue;\r\n\r\n.my-flix {\r\n  color: $color;\r\n}"],"names":[],"version":3,"file":"index.22722d73.css.map","sourceRoot":"/__parcel_source_root/"}
