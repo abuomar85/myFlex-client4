@@ -38,6 +38,7 @@ export function Menubar({user}) {
                                 {!isAuth() && (
                                     <Nav.Link href="/register">Sign-up</Nav.Link>
                                 )}
+                            
                             </Nav>
                         </Navbar.Collapse>
                     </Container>
